@@ -1,0 +1,13 @@
+a{
+    color: rgb(0, 255, 162);
+    text-decoration: none;
+    text-transform: none;
+    text-shadow: 6px -9px 2px #ffa500e8;
+}
+p{text-indent: 50px;
+word-spacing: 5px;
+white-space: pre;
+font-family: 'Dancing Script', cursive;
+
+
+}
